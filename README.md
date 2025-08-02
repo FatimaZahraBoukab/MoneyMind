@@ -41,7 +41,7 @@ Serveur web (Apache, Nginx)
 Installation
 Clonez le dépôt
 
-git clone https://github.com/Mo7amed-Boukab/MoneyMind.git
+git clone https://github.com/FatimaZahraBoukab/MoneyMind.git
 cd MoneyMind
 Installez les dépendances
 
